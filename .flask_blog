@@ -1,0 +1,4 @@
+export SECRET_KEY='d207987688429d11d16cf78d3a1ea884'
+export SQLALCHEMY_DATABASE_URI='sqlite:///site.db'
+export EMAIL_USER='blogpythonflash@gmail.com'
+export EMAIL_PASS='2metauydV7BEzRd'
